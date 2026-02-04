@@ -236,9 +236,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
   const bioMessages = [
-    "\"Always believe in yourself never give up.\",
-    "\"hello world\"",
-    "Stop stalking lmao"
+    "Always believe in yourself never give up.",
+    "\"Hello, World!\"",
   ];
   let bioText = '';
   let bioIndex = 0;
@@ -671,4 +670,5 @@ document.addEventListener('DOMContentLoaded', () => {
   typeWriterStart();
 
 });
+
 
